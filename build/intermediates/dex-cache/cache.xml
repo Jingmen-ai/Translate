@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\android\workspace\TranslateDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\android\workspace\TranslateDemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_0834b9da184080d666062a5de50b6bd4afb4e23c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\workspace\TranslateDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\android\workspace\TranslateDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_86f6a71cdd662bda412a384822181209ec72d61b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\workspace\TranslateDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\android\workspace\TranslateDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_10c472ad9711959e177c0f4b18cbae44bcc7fda3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\workspace\TranslateDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\android\workspace\TranslateDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_abc2de39ea01e122f886d723bcbca385848872d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\workspace\TranslateDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\android\workspace\TranslateDemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_53252ba5db000fb20d486659604b1836992f8ee9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\workspace\TranslateDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\android\workspace\TranslateDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_444c3892dff7d94dece5354ecc725a7199e5e2e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\workspace\TranslateDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\android\workspace\TranslateDemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_a2a08109e0fbbf4342ea921666bcb2e1b8c011b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\workspace\TranslateDemo\app\libs\YoudaoBase.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="50adfd5d643fb28c8ee5d78cc361b25fd991864e">
+        <dex dex="E:\android\workspace\TranslateDemo\app\build\intermediates\pre-dexed\debug\YoudaoBase_0e026e9fa939b9f1c8801417177ac54122e8dfc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\workspace\TranslateDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\android\workspace\TranslateDemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c85e73db4279c98798c950af158cb7d44640667c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\workspace\TranslateDemo\app\libs\YoudaoCnDictOffline.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bbf9e2aeffcd98fd905fc8053f779e643ff28810">
+        <dex dex="E:\android\workspace\TranslateDemo\app\build\intermediates\pre-dexed\debug\YoudaoCnDictOffline_b32639443ad6eb8304641094090c9535bcb9b5a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.2.1\8de3aafecbdf98a61db6427f008f2d515bcd2544\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\android\workspace\TranslateDemo\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_3725ee5d8a24200e413c5000893346b8849b1a1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\workspace\TranslateDemo\app\libs\YoudaoTranslateOffline.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="afca3a0bb8db92a50f540c69d44b9d86f5242d84">
+        <dex dex="E:\android\workspace\TranslateDemo\app\build\intermediates\pre-dexed\debug\YoudaoTranslateOffline_11e2176b22c38c64ad0a34ca83510edf787ea3c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\workspace\TranslateDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\android\workspace\TranslateDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_1e1f0f1ce46de0522d2585a62de9395dfc4353d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\workspace\TranslateDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\android\workspace\TranslateDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_e6a1fdcc1cb369db8c90cf1ae1f34795377e4f40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\workspace\TranslateDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\android\workspace\TranslateDemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_965f8685271c4dc5b8683817847cc403a19ba61c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\workspace\TranslateDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\android\workspace\TranslateDemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_7657c586c1535dac60b257ddbfb1aca59b0134a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\workspace\TranslateDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\android\workspace\TranslateDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_907f540ae55a532958b0cd72e83ce064033c0a27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\workspace\TranslateDemo\app\libs\YoudaoTranslateOnline.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c4bfbf70d0f55dbd637b885b79476864d08d2bc">
+        <dex dex="E:\android\workspace\TranslateDemo\app\build\intermediates\pre-dexed\debug\YoudaoTranslateOnline_a416451ffe538d89b8f3880e113f251d0321ec3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\workspace\TranslateDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\android\workspace\TranslateDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_3aea80fa66ead881dfe5164a367b19ef28cad3e8.jar" />
+    </item>
+
+</items>
